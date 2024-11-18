@@ -1,4 +1,4 @@
-import LinkCustom from "@/components/LinkCustom";
+import LinkCustom from "@/components/LinkCustom/LinkCustom";
 
 const Home = () => {
   return (
